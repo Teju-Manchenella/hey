@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          Site by <a href="https://nextjs.org">Next.js!</a>
+          Site by <a href="https://nextjs.org">Next.js</a> hosted on <a href="https://fleek.co">Fleek</a>!
         </p>
       </main>
     </div>
